@@ -155,8 +155,8 @@ imbalanced-learn
 Keval Chouhan
 🎓 M.Tech Data Science Student
 
-- GitHub: [https://github.com/YOUR_USERNAME](https://github.com/kevalchuhan/fake-news-detection/edit/main/README.md)
-- Hugging Face: [https://huggingface.co/YOUR_USERNAME](https://huggingface.co/spaces/kevalchuhan76/fake-news-detector)
+- GitHub: https://github.com/kevalchuhan/fake-news-detection/edit/main/README.md
+- Hugging Face: https://huggingface.co/spaces/kevalchuhan76/fake-news-detector
 
 ---
 
