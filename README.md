@@ -12,7 +12,7 @@
 
 ## 🌐 Live Demo
 
-> 🔗 **[Click here to try the app]([YOUR_HUGGINGFACE_LINK_HERE](https://huggingface.co/spaces/kevalchuhan76/fake-news-detector))
+> 🔗 **[Click here to try the app]🔗 [Click here to try the app](https://huggingface.co/spaces/kevalchuhan76/fake-news-detector)
 >
 > _(If the app shows "Starting...", wait 60 seconds — it wakes up automatically)_
 
